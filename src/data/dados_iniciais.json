@@ -1,17 +1,17 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Hello World",
+      "link": "https://www.youtube.com/watch?v=2TofunAI6fU",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Começe por aqui!",
+        "url": "https://www.youtube.com/watch?v=2TofunAI6fU"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Como aprender a hackear?",
+          "url": "https://www.youtube.com/watch?v=2TofunAI6fU"
         },
         {
           "titulo": "SEO com React",
@@ -44,10 +44,10 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Pentest",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "Aprenda mais sobre os testes de invasão",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -74,10 +74,10 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Bug Bounty",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
+        "text": "Caçe bugs nos websites e receba por isso!",
         "url": "https://www.alura.com.br/formacao-data-science"
       },
       "videos": [
@@ -100,8 +100,12 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "CTF",
       "cor": "orange",
+      "link_extra": {
+        "text": "Aplique todo o seu conhecimento de segurança em campeonatos!",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
       "videos": [
         {
           "titulo": "Interestellar",
@@ -122,10 +126,10 @@
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Redes",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
+        "text": "Conhecer e entender redes é extremamente importante",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
       },
       "videos": [
@@ -152,10 +156,10 @@
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Programação",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "Saber programar pode alavancar seu desempenho e seu arsenal!",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
